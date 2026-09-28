@@ -44,10 +44,7 @@ The primary objective of this project is to analyze e-commerce transaction data 
 
 
 
-## Dataset Source
 
-**Source:** Kaggle – Messy E-Commerce Sales Dataset 2026
-[Kaggle Dataset](https://www.kaggle.com/datasets/afaqkhan091/messy-e-commerce-sales-dataset-2026?utm_source=chatgpt.com)
 
 ## Project Outcome
 
