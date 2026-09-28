@@ -1,4 +1,58 @@
 #  E-Commerce Sales Data Analysis 
+## Dataset Introduction
+
+The **Messy E-Commerce Sales Dataset 2026** is a transactional e-commerce dataset designed to represent real-world online sales data. It contains information related to customer orders, products, pricing, discounts, payment methods, shipping locations, order status, and customer ratings.
+
+The dataset can be used to analyze **sales performance, customer purchasing behavior, product performance, pricing, discounts, payment preferences, and order fulfillment patterns**.
+
+The dataset contains **12,000 order records** and provides a practical foundation for performing data preparation, exploratory data analysis (EDA), statistical analysis, visualization, and business-oriented analysis.
+
+## Project Objective
+
+The primary objective of this project is to analyze e-commerce transaction data and identify meaningful patterns in **sales, customers, products, pricing, discounts, and order fulfillment**.
+
+### Key Objectives
+
+* Analyze overall sales and revenue performance.
+* Identify high-performing product categories and products.
+* Understand customer purchasing patterns.
+* Analyze the relationship between product prices, quantities, and discounts.
+* Examine payment method preferences.
+* Analyze order status and fulfillment patterns.
+* Evaluate customer ratings to understand customer experience.
+* Identify trends and patterns that can support data-driven business decisions.
+* Apply data preprocessing and exploratory data analysis techniques to prepare the dataset for reliable analysis.
+
+## Dataset Columns
+
+| Column               | Description                                                                      |
+| -------------------- | -------------------------------------------------------------------------------- |
+| **Order_ID**         | Unique identifier assigned to each customer order.                               |
+| **Customer_ID**      | Unique identifier representing the customer who placed the order.                |
+| **Order_Date**       | Date on which the order was placed.                                              |
+| **Product_Category** | Category or classification of the product purchased.                             |
+| **Product_Name**     | Name of the product included in the order.                                       |
+| **Quantity**         | Number of units of the product purchased in the order.                           |
+| **Unit_Price_USD**   | Price of one unit of the product in US dollars.                                  |
+| **Discount_Percent** | Percentage discount applied to the product or order.                             |
+| **Payment_Method**   | Payment method used by the customer to complete the transaction.                 |
+| **Shipping_City**    | City to which the order was shipped.                                             |
+| **Country**          | Country associated with the order or shipping destination.                       |
+| **Order_Status**     | Current status of the order, such as completed, pending, cancelled, or returned. |
+| **Customer_Rating**  | Rating provided by the customer for the purchase/order experience.               |
+
+
+
+
+## Dataset Source
+
+**Source:** Kaggle – Messy E-Commerce Sales Dataset 2026
+[Kaggle Dataset](https://www.kaggle.com/datasets/afaqkhan091/messy-e-commerce-sales-dataset-2026?utm_source=chatgpt.com)
+
+## Project Outcome
+
+The project aims to transform raw e-commerce transaction data into **actionable business insights** by combining data preprocessing, exploratory analysis, statistical techniques, and visualization. The final analysis can help identify sales trends, customer behavior, product performance, and opportunities for improving pricing, promotions, and overall e-commerce operations.
+
 
 ##  Project Overview
 
@@ -29,21 +83,7 @@ The analysis aims to transform raw e-commerce transaction data into a structured
 
 ---
 
-##  Dataset
 
-The dataset contains e-commerce transaction information, including fields related to:
-
-* Order details
-* Customer information
-* Product categories and names
-* Quantity
-* Unit price
-* Discount percentage
-* Payment methods
-* Shipping information
-* Country
-* Order status
-* Customer ratings
 
 ---
 
