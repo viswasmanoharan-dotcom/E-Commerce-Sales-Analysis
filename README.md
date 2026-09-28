@@ -1,4 +1,4 @@
-#  E-Commerce Sales Data Analysis & Cleaning
+#  E-Commerce Sales Data Analysis 
 
 ##  Project Overview
 
