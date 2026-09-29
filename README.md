@@ -59,15 +59,6 @@ The analysis aims to transform raw e-commerce transaction data into a structured
 
 **Dataset Source:** [Kaggle – Messy E-Commerce Sales Dataset 2026](https://www.kaggle.com/datasets/afaqkhan091/messy-e-commerce-sales-dataset-2026)
 
----
-
-## 🎯 Project Objective
-
-* Clean and preprocess raw e-commerce transaction data to improve data quality and consistency.
-* Analyze sales, pricing, discounts, product categories, customer ratings, and order-related patterns to generate useful business insights.
-
----
-
 ##  Tools & Technologies Used
 
 * **Python**
